@@ -32,7 +32,7 @@ Virtual bookshelf for math and computer science.
 * [XGBoost with Python](./AI/XGBoost%20with%20Python%20Gradient%20Boosted%20Trees%20with%20XGBoost%20and%20scikit-learn.pdf)
 * [数据科学实战](./AI/数据科学实战.pdf)
 * [Data Science for Economics and Finance](./AI/Data%20Science%20for%20Economics%20and%20Finance.pdf)
-* [Visual-Data-Storytelling-with-Tableau](./AI/Tableau-Visual-Data-Storytelling.pdf)
+* [Visual Data Storytelling with Tableau](./AI/Tableau-Visual-Data-Storytelling.pdf)
 * [OpenCV计算机视觉编程攻略](./AI/OpenCV计算机视觉.pdf)
 * [Computer Vision Projects with PyTorch: Design and Develop Production-Grade Models](./AI/Computer%20Vision%20Projects%20with%20PyTorch.pdf)
 * [Natural Language Processing with Transformers: Building Language Applications with Hugging Face](./AI/Natural%20Language%20Processing%20with%20Transformers_Building%20Language%20Applications%20with%20Hugging%20Face.pdf)
@@ -49,7 +49,7 @@ Virtual bookshelf for math and computer science.
 * [Statistical Reinforcement Learning: Modern Machine Learning Approaches](./AI/Statistical%20Reinforcement%20Learning_Modern%20Machine%20Learning%20Approaches.pdf)
 * [Interpretable AI: Building Explainable Machine Learning Systems](./AI/Interpretable%20AI_Building%20Explainable%20Machine%20Learning%20Systems.pdf)
 * [Deep Learning Interviews: Real-World Deep Learning Interview Problems & Solutions](./AI/Deep%20Learning%20Interviews.pdf)
-* [The-Kaggle-Book: Data Analysis and Machine Learning for Competitive Data Science](./AI/Kaggle-Book.pdf)
+* [The Kaggle Book: Data Analysis and Machine Learning for Competitive Data Science](./AI/Kaggle-Book.pdf)
 
 ## C/C++
 
@@ -75,6 +75,7 @@ Virtual bookshelf for math and computer science.
 
 ## Math
 
+* [Introduction to Algorithms 4th Edition](./Math/Introduction%20to%20Algorithms%204th%20Edition.pdf)
 * [算法新解 刘新宇著](./Math/算法新解.pdf)
 * [Algorithms by Jeff Erickson](./Math/Algorithms.pdf)
 * [普林斯顿微积分读本 修订版](./Math/普林斯顿微积分读本.pdf)
@@ -94,7 +95,7 @@ Virtual bookshelf for math and computer science.
 * [模式识别与机器学习 马春鹏著](./Math/模式识别与机器学习.pdf)
 * [Handbook of Combinatorial Optimization](./Math/Handbook%20of%20Combinatorial%20Optimization.pdf)
 * [微分几何 彭家贵](./Math/微分几何.pdf)
-* [Probabilistic Numerics](./Math/Probabilistic%20Numerics.pdf)
+* [Probabilistic Numerics: Computation as Machine Learning](./Math/Probabilistic%20Numerics.pdf)
 * [High-Dimensional Probability: An Introduction with Applications in Data Science](./Math/High-Dimensional%20Probability_An%20Introduction%20with%20Applications%20in%20Data%20Science.pdf)
 * [Inside Deep Learning: Math, Algorithms, Models](./Math/Inside%20Deep%20Learning_Math%20Algorithms%20Models.pdf)
 
@@ -113,9 +114,11 @@ Virtual bookshelf for math and computer science.
 * [Python源码剖析：深度探索动态语言核心技术](./Python/Python%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90%EF%BC%9A%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2%E5%8A%A8%E6%80%81%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf)
 
 ## channels
-
-* Directly find the corresponding `pdf` file to download.
-* Open the file from VSCode (download the `vscode-pdf` plugin).
+- Directly find the corresponding `pdf` file to download.
+- Open from local repository cloned by the underlying command:
+```text
+git clone https://github.com/linjing-lab/bookshelf.git
+```
 
 ## reference
 
