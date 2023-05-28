@@ -123,17 +123,22 @@ git clone https://github.com/linjing-lab/bookshelf.git
 ## reference
 
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
-- [dimforge/nalgebra](https://github.com/dimforge/nalgebra)
-- [numpy/numpy](https://github.com/numpy/numpy)
+- [vinta/awesome-python](https://github.com/vinta/awesome-python)
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python)
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust)
+- [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
+- [akullpp/awesome-java](https://github.com/akullpp/awesome-java)
+- [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [linjing-lab/optimtool](https://pypi.org/project/optimtool/)
 - [google/objax](https://github.com/google/objax)
 - [linjing-lab/sortingx](https://pypi.org/project/sortingx/)
-- [feature-engine/feature_engine](https://github.com/feature-engine/feature_engine)
-- [statsmodels/statsmodels](https://github.com/statsmodels/statsmodels)
-- [plumed/plumed2](https://github.com/plumed/plumed2)
-- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
-- [OriginQ/QPanda-2](https://github.com/OriginQ/QPanda-2)
 - [cn.julialang.org](https://cn.julialang.org/)
+- [pola-rs/polars-book-cn](https://github.com/pola-rs/polars-book-cn)
+- [lmmentel/awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry)
+- [qosf/awesome-quantum-software](https://github.com/qosf/awesome-quantum-software)
+- [keon/awesome-nlp](https://github.com/keon/awesome-nlp)
+- [binhnguyennus/awesome-scalabilit](https://github.com/binhnguyennus/awesome-scalability)
 
 ## LICENSE
 
