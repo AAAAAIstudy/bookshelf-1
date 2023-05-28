@@ -87,6 +87,7 @@ Virtual bookshelf for math and computer science.
 * [面向计算机和机器学习的数学全书](./Math/math-deep.pdf)
 * [Scientific Computing by Jeffrey R. Chasnov](./Math/Scientific%20Computing.pdf)
 * [计算机代数系统的数学原理](./Math/计算机代数系统的数学原理.pdf)
+* [Numerical Analysis by Richard L. Burden and J. Douglas Faires](./Math/Numerical%20Analysis%209th%20Edition.pdf)
 * [Matrix Algebra: Theory, Computations and Applications in Statistics](./Math/Matrix%20Algebra_Theory,%20Computations%20and%20Applications%20in%20Statistics.pdf)
 * [Modern Quantum Chemistry: Introduction to Advanced Electronic Structure](./Math/Modern%20Quantum%20Chemistry_Introduction%20to%20Advanced%20Electronic%20Structure.pdf)
 * [Algorithm Design Manual by Steven S. Skiena](./Math/Algorithm%20Design%20Manual.pdf)
