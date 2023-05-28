@@ -53,9 +53,10 @@ Virtual bookshelf for math and computer science.
 
 ## C/C++
 
+* [C Primer Plus 6th Edition](./C%2B%2B/C%20Primer%20Plus%206th%20Edition.pdf)
 * [Fluent C: Principles, Practices and Patterns](./C%2B%2B/Fluent%20C_Principles%2C%20Practices%20and%20Patterns.pdf)
 * [Modern C by Jens Gustedt](./C%2B%2B/Modern%20C.pdf)
-* [C++程序设计简明讲义 潘建瑜著](./C%2B%2B/C%2B%2B%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%AE%80%E6%98%8E%E8%AE%B2%E4%B9%89%20%E6%BD%98%E5%BB%BA%E7%91%9C%E8%91%97.pdf)
+* [C++ Primer Plus 6th Edition](./C%2B%2B/C%2B%2B%20Primer%20Plus%206th%20Edition.pdf)
 * [数据结构 C++语言版](./C++/数据结构%20C++语言版.pdf)
 * [算法竞赛入门经典 第2版](./C++/算法竞赛入门经典-第2版.pdf)
 * [算法竞赛入门经典 训练指南](./C++/算法竞赛入门经典-训练指南.pdf)
@@ -66,6 +67,7 @@ Virtual bookshelf for math and computer science.
 * [Git 团队协作](./Extra/Git团队协作.pdf)
 * [CUDA C 编程权威指南](./Extra/CUDA%20C编程权威指南.pdf)
 * [Java Programming](./Extra/Java%20Programming.pdf)
+* [Algorithms in Java 4th](./Extra/Algorithms%20in%20Java%204th.pdf)
 * [Microservices Patterns: With examples in Java](./Extra/Microservices%20Patterns%20With%20examples%20in%20Java.pdf)
 * [精通 Rust](./Extra/精通Rust.pdf)
 * [Speed Up Your Python with Rust: Optimize Python performance by creating Python pip modules in Rust with PyO3](./Extra/Speed%20Up%20Your%20Python%20with%20Rust%20Optimize%20Python%20performance%20by%20creating%20Python%20pip%20modules%20in%20Rust%20with%20PyO3.pdf)
@@ -79,11 +81,11 @@ Virtual bookshelf for math and computer science.
 * [算法新解 刘新宇著](./Math/算法新解.pdf)
 * [Algorithms by Jeff Erickson](./Math/Algorithms.pdf)
 * [普林斯顿微积分读本 修订版](./Math/普林斯顿微积分读本.pdf)
+* [Quantum Chemistry: A concise introduction for students of physics, chemistry, biochemistry and materials science](./Math/Quantum%20Chemistry_A%20concise%20introduction%20for%20students%20of%20physics%2C%20chemistry%2C%20biochemistry%20and%20materials%20science.pdf)
 * [Advanced Algorithms and Data Structures](./Math/Advanced%20Algorithms%20and%20Data%20Structures.pdf)
-* [数值分析讲义 潘建瑜著](./Math/%E6%95%B0%E5%80%BC%E5%88%86%E6%9E%90%E8%AE%B2%E4%B9%89.pdf)
 * [Elements of Causal Inference: Foundations and Learning Algorithms](./Math/Elements%20of%20Causal%20Inference_Foundations%20and%20Learning%20Algorithms.pdf)
 * [面向计算机和机器学习的数学全书](./Math/math-deep.pdf)
-* [Scientific Computing](./Math/Scientific%20Computing.pdf)
+* [Scientific Computing by Jeffrey R. Chasnov](./Math/Scientific%20Computing.pdf)
 * [计算机代数系统的数学原理](./Math/计算机代数系统的数学原理.pdf)
 * [Matrix Algebra: Theory, Computations and Applications in Statistics](./Math/Matrix%20Algebra_Theory,%20Computations%20and%20Applications%20in%20Statistics.pdf)
 * [Algorithm Design Manual](./Math/Algorithm%20Design%20Manual.pdf)
@@ -114,6 +116,7 @@ Virtual bookshelf for math and computer science.
 * [Python源码剖析：深度探索动态语言核心技术](./Python/Python%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90%EF%BC%9A%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2%E5%8A%A8%E6%80%81%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf)
 
 ## channels
+
 - Directly find the corresponding `pdf` file to download.
 - Open from local repository cloned by the underlying command:
 ```text
