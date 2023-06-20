@@ -2,8 +2,6 @@
 
 Virtual bookshelf for math and computer science.
 
-面向数学与计算机科学领域的虚拟书架。
-
 ## AI
 
 * [统计学 第六版](./AI/统计学.pdf)
