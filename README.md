@@ -36,7 +36,7 @@ Inspired by research background and iterative project process.
 * [Fluent C: Principles, Practices and Patterns](./C%2B%2B/Fluent%20C_Principles%2C%20Practices%20and%20Patterns.pdf)
 * [Modern C by Jens Gustedt](./C%2B%2B/Modern%20C.pdf)
 * [C++ Primer Plus 6th Edition](./C%2B%2B/C%2B%2B%20Primer%20Plus%206th%20Edition.pdf)
-* [数据结构 C++语言版](./C++/数据结构%20C++语言版.pdf)
+* [Data Structures and Algorithms in C++](./C%2B%2B/Data%20Structures%20and%20Algorithms%20in%20C%2B%2B.pdf)
 * [算法竞赛入门经典 第2版](./C++/算法竞赛入门经典-第2版.pdf)
 * [算法竞赛入门经典 训练指南](./C++/算法竞赛入门经典-训练指南.pdf)
 * [API Design for C++](./C++/API%20Design%20for%20C++.pdf)
