@@ -1,6 +1,45 @@
 # bookshelf📦
 
-Inspired by research experience and iterative project process.
+Inspired by research background and iterative project process.
+
+## Math
+
+* [Introduction to Algorithms 4th Edition](./Math/Introduction%20to%20Algorithms%204th%20Edition.pdf)
+* [算法新解 刘新宇著](./Math/算法新解.pdf)
+* [Algorithms by Jeff Erickson](./Math/Algorithms.pdf)
+* [普林斯顿微积分读本 修订版](./Math/普林斯顿微积分读本.pdf)
+* [Quantum Chemistry: A concise introduction for students of physics, chemistry, biochemistry and materials science](./Math/Quantum%20Chemistry_A%20concise%20introduction%20for%20students%20of%20physics%2C%20chemistry%2C%20biochemistry%20and%20materials%20science.pdf)
+* [Advanced Algorithms and Data Structures](./Math/Advanced%20Algorithms%20and%20Data%20Structures.pdf)
+* [Elements of Causal Inference: Foundations and Learning Algorithms](./Math/Elements%20of%20Causal%20Inference_Foundations%20and%20Learning%20Algorithms.pdf)
+* [面向计算机和机器学习的数学全书](./Math/math-deep.pdf)
+* [Scientific Computing by Jeffrey R. Chasnov](./Math/Scientific%20Computing.pdf)
+* [计算机代数系统的数学原理](./Math/计算机代数系统的数学原理.pdf)
+* [Numerical Analysis by Richard L. Burden & J. Douglas Faires](./Math/Numerical%20Analysis%209th%20Edition.pdf)
+* [Matrix Algebra: Theory, Computations and Applications in Statistics](./Math/Matrix%20Algebra_Theory,%20Computations%20and%20Applications%20in%20Statistics.pdf)
+* [Modern Quantum Chemistry: Introduction to Advanced Electronic Structure](./Math/Modern%20Quantum%20Chemistry_Introduction%20to%20Advanced%20Electronic%20Structure.pdf)
+* [Algorithm Design Manual by Steven S. Skiena](./Math/Algorithm%20Design%20Manual.pdf)
+* [Matrix Computations by Gene H. Golub & Charles F. Van Loan](./Math/Matrix%20Computations.pdf)
+* [最优化：建模、算法与理论](./Math/最优化：建模、算法与理论.pdf)
+* [Discrete Mathematics and Its Applications by Kenneth H. Rosen](./Math/Discrete%20Mathematics%20and%20Its%20Applications.pdf)
+* [A Textbook of Graph Theory by R. Balakrishnan & K. Ranganathan](./Math/A%20Textbook%20of%20Graph%20Theory.pdf)
+* [Kernel Methods for Machine Learning with Math and Python](./Math/Kernel%20Methods%20for%20Machine%20Learning%20with%20Math%20and%20Python.pdf)
+* [模式识别与机器学习 马春鹏著](./Math/模式识别与机器学习.pdf)
+* [Handbook of Combinatorial Optimization](./Math/Handbook%20of%20Combinatorial%20Optimization.pdf)
+* [微分几何 彭家贵著](./Math/微分几何.pdf)
+* [Probabilistic Numerics: Computation as Machine Learning](./Math/Probabilistic%20Numerics.pdf)
+* [High-Dimensional Probability: An Introduction with Applications in Data Science](./Math/High-Dimensional%20Probability_An%20Introduction%20with%20Applications%20in%20Data%20Science.pdf)
+* [Inside Deep Learning: Math, Algorithms, Models](./Math/Inside%20Deep%20Learning_Math%20Algorithms%20Models.pdf)
+
+## C/C++
+
+* [C Primer Plus 6th Edition](./C%2B%2B/C%20Primer%20Plus%206th%20Edition.pdf)
+* [Fluent C: Principles, Practices and Patterns](./C%2B%2B/Fluent%20C_Principles%2C%20Practices%20and%20Patterns.pdf)
+* [Modern C by Jens Gustedt](./C%2B%2B/Modern%20C.pdf)
+* [C++ Primer Plus 6th Edition](./C%2B%2B/C%2B%2B%20Primer%20Plus%206th%20Edition.pdf)
+* [数据结构 C++语言版](./C++/数据结构%20C++语言版.pdf)
+* [算法竞赛入门经典 第2版](./C++/算法竞赛入门经典-第2版.pdf)
+* [算法竞赛入门经典 训练指南](./C++/算法竞赛入门经典-训练指南.pdf)
+* [API Design for C++](./C++/API%20Design%20for%20C++.pdf)
 
 ## AI
 
@@ -49,58 +88,6 @@ Inspired by research experience and iterative project process.
 * [Deep Learning Interviews: Real-World Deep Learning Interview Problems & Solutions](./AI/Deep%20Learning%20Interviews.pdf)
 * [The Kaggle Book: Data Analysis and Machine Learning for Competitive Data Science](./AI/Kaggle-Book.pdf)
 
-## C/C++
-
-* [C Primer Plus 6th Edition](./C%2B%2B/C%20Primer%20Plus%206th%20Edition.pdf)
-* [Fluent C: Principles, Practices and Patterns](./C%2B%2B/Fluent%20C_Principles%2C%20Practices%20and%20Patterns.pdf)
-* [Modern C by Jens Gustedt](./C%2B%2B/Modern%20C.pdf)
-* [C++ Primer Plus 6th Edition](./C%2B%2B/C%2B%2B%20Primer%20Plus%206th%20Edition.pdf)
-* [数据结构 C++语言版](./C++/数据结构%20C++语言版.pdf)
-* [算法竞赛入门经典 第2版](./C++/算法竞赛入门经典-第2版.pdf)
-* [算法竞赛入门经典 训练指南](./C++/算法竞赛入门经典-训练指南.pdf)
-* [API Design for C++](./C++/API%20Design%20for%20C++.pdf)
-
-## Extra
-
-* [Git 团队协作](./Extra/Git团队协作.pdf)
-* [CUDA C 编程权威指南](./Extra/CUDA%20C编程权威指南.pdf)
-* [Java Programming](./Extra/Java%20Programming.pdf)
-* [Algorithms in Java 4th](./Extra/Algorithms%20in%20Java%204th.pdf)
-* [Microservices Patterns: With examples in Java](./Extra/Microservices%20Patterns%20With%20examples%20in%20Java.pdf)
-* [精通 Rust](./Extra/精通Rust.pdf)
-* [Speed Up Your Python with Rust: Optimize Python performance by creating Python pip modules in Rust with PyO3](./Extra/Speed%20Up%20Your%20Python%20with%20Rust%20Optimize%20Python%20performance%20by%20creating%20Python%20pip%20modules%20in%20Rust%20with%20PyO3.pdf)
-* [Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications](./Extra/Practical%20Rust%20Projects%20Building%20Game,%20Physical%20Computing,%20and%20Machine%20Learning%20Applications.pdf)
-* [Linux命令行与Shell脚本编程大全](./Extra/Linux命令行与Shell脚本编程大全.pdf)
-* [Linux/UNIX系统编程手册](./Extra/Linux-UNIX系统编程手册.pdf)
-
-## Math
-
-* [Introduction to Algorithms 4th Edition](./Math/Introduction%20to%20Algorithms%204th%20Edition.pdf)
-* [算法新解 刘新宇著](./Math/算法新解.pdf)
-* [Algorithms by Jeff Erickson](./Math/Algorithms.pdf)
-* [普林斯顿微积分读本 修订版](./Math/普林斯顿微积分读本.pdf)
-* [Quantum Chemistry: A concise introduction for students of physics, chemistry, biochemistry and materials science](./Math/Quantum%20Chemistry_A%20concise%20introduction%20for%20students%20of%20physics%2C%20chemistry%2C%20biochemistry%20and%20materials%20science.pdf)
-* [Advanced Algorithms and Data Structures](./Math/Advanced%20Algorithms%20and%20Data%20Structures.pdf)
-* [Elements of Causal Inference: Foundations and Learning Algorithms](./Math/Elements%20of%20Causal%20Inference_Foundations%20and%20Learning%20Algorithms.pdf)
-* [面向计算机和机器学习的数学全书](./Math/math-deep.pdf)
-* [Scientific Computing by Jeffrey R. Chasnov](./Math/Scientific%20Computing.pdf)
-* [计算机代数系统的数学原理](./Math/计算机代数系统的数学原理.pdf)
-* [Numerical Analysis by Richard L. Burden & J. Douglas Faires](./Math/Numerical%20Analysis%209th%20Edition.pdf)
-* [Matrix Algebra: Theory, Computations and Applications in Statistics](./Math/Matrix%20Algebra_Theory,%20Computations%20and%20Applications%20in%20Statistics.pdf)
-* [Modern Quantum Chemistry: Introduction to Advanced Electronic Structure](./Math/Modern%20Quantum%20Chemistry_Introduction%20to%20Advanced%20Electronic%20Structure.pdf)
-* [Algorithm Design Manual by Steven S. Skiena](./Math/Algorithm%20Design%20Manual.pdf)
-* [Matrix Computations by Gene H. Golub & Charles F. Van Loan](./Math/Matrix%20Computations.pdf)
-* [最优化：建模、算法与理论](./Math/最优化：建模、算法与理论.pdf)
-* [Discrete Mathematics and Its Applications by Kenneth H. Rosen](./Math/Discrete%20Mathematics%20and%20Its%20Applications.pdf)
-* [A Textbook of Graph Theory by R. Balakrishnan & K. Ranganathan](./Math/A%20Textbook%20of%20Graph%20Theory.pdf)
-* [Kernel Methods for Machine Learning with Math and Python](./Math/Kernel%20Methods%20for%20Machine%20Learning%20with%20Math%20and%20Python.pdf)
-* [模式识别与机器学习 马春鹏著](./Math/模式识别与机器学习.pdf)
-* [Handbook of Combinatorial Optimization](./Math/Handbook%20of%20Combinatorial%20Optimization.pdf)
-* [微分几何 彭家贵著](./Math/微分几何.pdf)
-* [Probabilistic Numerics: Computation as Machine Learning](./Math/Probabilistic%20Numerics.pdf)
-* [High-Dimensional Probability: An Introduction with Applications in Data Science](./Math/High-Dimensional%20Probability_An%20Introduction%20with%20Applications%20in%20Data%20Science.pdf)
-* [Inside Deep Learning: Math, Algorithms, Models](./Math/Inside%20Deep%20Learning_Math%20Algorithms%20Models.pdf)
-
 ## Python
 
 * [Python语言及其应用](./Python/Python语言及其应用.pdf)
@@ -114,6 +101,19 @@ Inspired by research experience and iterative project process.
 * [Python测试驱动开发](./Python/Python测试驱动开发.pdf)
 * [Python Architecture Patterns](./Python/Python%20Architecture%20Patterns%20Master%20API%20design,%20event-driven%20structures,%20and%20package%20management%20in%20Python.pdf)
 * [Python源码剖析：深度探索动态语言核心技术](./Python/Python%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90%EF%BC%9A%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2%E5%8A%A8%E6%80%81%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf)
+
+## Extra
+
+* [Git 团队协作](./Extra/Git团队协作.pdf)
+* [CUDA C 编程权威指南](./Extra/CUDA%20C编程权威指南.pdf)
+* [Java Programming](./Extra/Java%20Programming.pdf)
+* [Algorithms in Java 4th](./Extra/Algorithms%20in%20Java%204th.pdf)
+* [Microservices Patterns: With examples in Java](./Extra/Microservices%20Patterns%20With%20examples%20in%20Java.pdf)
+* [精通 Rust](./Extra/精通Rust.pdf)
+* [Speed Up Your Python with Rust: Optimize Python performance by creating Python pip modules in Rust with PyO3](./Extra/Speed%20Up%20Your%20Python%20with%20Rust%20Optimize%20Python%20performance%20by%20creating%20Python%20pip%20modules%20in%20Rust%20with%20PyO3.pdf)
+* [Practical Rust Projects: Building Game, Physical Computing, and Machine Learning Applications](./Extra/Practical%20Rust%20Projects%20Building%20Game,%20Physical%20Computing,%20and%20Machine%20Learning%20Applications.pdf)
+* [Linux命令行与Shell脚本编程大全](./Extra/Linux命令行与Shell脚本编程大全.pdf)
+* [Linux/UNIX系统编程手册](./Extra/Linux-UNIX系统编程手册.pdf)
 
 ## reference
 
