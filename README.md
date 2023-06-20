@@ -115,12 +115,6 @@ Inspired by research experience and iterative project process.
 * [Python Architecture Patterns](./Python/Python%20Architecture%20Patterns%20Master%20API%20design,%20event-driven%20structures,%20and%20package%20management%20in%20Python.pdf)
 * [Python源码剖析：深度探索动态语言核心技术](./Python/Python%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90%EF%BC%9A%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2%E5%8A%A8%E6%80%81%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF.pdf)
 
-## channels
-- Directly find the corresponding `pdf` file to download.
-- Open from local repository cloned by the underlying command:
-```text
-git clone https://github.com/linjing-lab/bookshelf.git
-```
 ## reference
 
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
