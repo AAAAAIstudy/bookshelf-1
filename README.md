@@ -1,6 +1,6 @@
 # bookshelf📦
 
-Virtual bookshelf for math and computer science.
+Inspired by research experience and iterative project process.
 
 ## AI
 
