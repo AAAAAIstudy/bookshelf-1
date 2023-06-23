@@ -9,6 +9,7 @@ Inspired by research background and iterative project process.
 * [Algorithms by Jeff Erickson](./Math/Algorithms.pdf)
 * [普林斯顿微积分读本 修订版](./Math/普林斯顿微积分读本.pdf)
 * [Quantum Chemistry: A concise introduction for students of physics, chemistry, biochemistry and materials science](./Math/Quantum%20Chemistry_A%20concise%20introduction%20for%20students%20of%20physics%2C%20chemistry%2C%20biochemistry%20and%20materials%20science.pdf)
+* [Physical Chemistry: A Molecular Approach by Donald A. McQuarrie & John D. Simon](./Math/Physical%20Chemistry_A%20Molecular%20Approach.pdf)
 * [Advanced Algorithms and Data Structures](./Math/Advanced%20Algorithms%20and%20Data%20Structures.pdf)
 * [Elements of Causal Inference: Foundations and Learning Algorithms](./Math/Elements%20of%20Causal%20Inference_Foundations%20and%20Learning%20Algorithms.pdf)
 * [Scientific Computing by Jeffrey R. Chasnov](./Math/Scientific%20Computing.pdf)
