@@ -16,6 +16,7 @@ Inspired by research background and iterative project process.
 * [Scientific Computing by Jeffrey R. Chasnov](./Math/Scientific%20Computing.pdf)
 * [计算机代数系统的数学原理](./Math/计算机代数系统的数学原理.pdf)
 * [Numerical Analysis by Richard L. Burden & J. Douglas Faires](./Math/Numerical%20Analysis%209th%20Edition.pdf)
+* [Molecular Quantum Mechanics by Peter Atkins & Ronald Friedman](./Math/Molecular%20Quantum%20Mechanics.pdf)
 * [Matrix Algebra: Theory, Computations and Applications in Statistics](./Math/Matrix%20Algebra_Theory,%20Computations%20and%20Applications%20in%20Statistics.pdf)
 * [Modern Quantum Chemistry: Introduction to Advanced Electronic Structure](./Math/Modern%20Quantum%20Chemistry_Introduction%20to%20Advanced%20Electronic%20Structure.pdf)
 * [Algorithm Design Manual by Steven S. Skiena](./Math/Algorithm%20Design%20Manual.pdf)
