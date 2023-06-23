@@ -20,6 +20,7 @@ Inspired by research background and iterative project process.
 * [Matrix Algebra: Theory, Computations and Applications in Statistics](./Math/Matrix%20Algebra_Theory,%20Computations%20and%20Applications%20in%20Statistics.pdf)
 * [Modern Quantum Chemistry: Introduction to Advanced Electronic Structure](./Math/Modern%20Quantum%20Chemistry_Introduction%20to%20Advanced%20Electronic%20Structure.pdf)
 * [Algorithm Design Manual by Steven S. Skiena](./Math/Algorithm%20Design%20Manual.pdf)
+* [Lehninger Principles of Biochemistry by David L. Nelson & Michael M. Cox](./Math/Lehninger%20Principles%20of%20Biochemistry.pdf)
 * [Matrix Computations by Gene H. Golub & Charles F. Van Loan](./Math/Matrix%20Computations.pdf)
 * [Molecular Biology 5th Edition by Robert F. Weaver](./Math/Molecular%20Biology%205th%20Edition.pdf)
 * [最优化：建模、算法与理论](./Math/最优化：建模、算法与理论.pdf)
